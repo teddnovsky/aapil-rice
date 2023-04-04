@@ -1,0 +1,66 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+
+body {
+    background-color: green;
+    
+}
+
+
+div {
+       
+    padding: auto;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #EEEEEE;
+    background-color: green;
+   
+   
+}
+
+
+ .header {
+    display: flex;
+    font-size: 48px;
+    color: white;
+    padding: auto;
+    border: 20px;
+    justify-content: center;
+    background-color: orange;
+    
+}
+
+
+ .header-mini {
+    
+    display: flex;
+    font-size: 48px;
+    color: orange;
+    padding: 8 16;
+    border: 20px;
+    margin: auto;
+    justify-content: space-between;
+ }
+
+
+.rubrik-one {
+
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+
+
+#anmelden {
+    
+    font-size: 36px;
+    
+    
+  }
+  
